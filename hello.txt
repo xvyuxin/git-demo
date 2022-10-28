@@ -1,11 +1,8 @@
 hello git
 hello world
-hello 
+hello
+
 hot fix
-
-
-
-
 
 hot-fix test
 
