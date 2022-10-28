@@ -3,3 +3,5 @@ hello world
 hello 
 hot fix
 master test
+hot-fix test
+hot-fix
